@@ -28,6 +28,7 @@ mogrify -path assets/images/2016_baumhaustraining/thumbs -quality 90 -resize 200
 
 Build a page:
 ```
+rvm use 2.7.0
 bundle install
 bundle exec jekyll serve
 ```

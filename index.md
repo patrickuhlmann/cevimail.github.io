@@ -12,7 +12,7 @@ layout: default
 Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events bleiben? Dann melde Dich für unseren Newsletter an!
 
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xleavawb" method="post">
+<form id="fs-frm" name="simple-contact-form" style="margin-bottom: 1em" accept-charset="utf-8" action="https://formspree.io/f/xleavawb" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" placeholder="Vor- und Nachname" required="">
@@ -130,3 +130,29 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
   margin-right: 3%;
 }
 </style>
+
+<h2>Kommende Events</h2>
+
+<table>
+  <tr>
+    <th>Datum</th>
+    <th>Event</th>
+    <th>Ort</th>
+    <th>Wer</th>
+    <th>Beschreibung</th>
+  </tr>
+  <tr>
+    <td>17. - 21. August 2022</td>
+    <td>ESG LTS 2022</td>
+    <td>Köln, Deutschland</td>
+    <td>ab 16 Jahren</td>
+    <td>Das ESG Leadership Training und Seminar bietet die Möglichkeit sich mit anderen Scouts des YMCA Europa auszutauschen. In den vier Tagen Seminar und Training werden viele spannende Diskussionen geführt und es gibt coole Aktivitäten. <br /><a href="https://db.cevi.ch/groups/1819/public_events/2970">Mehr Informationen</a></td>
+  </tr>
+  <tr>
+    <td>04. - 09. September 2022</td>
+    <td>YWCA Study Session</td>
+    <td>Budapest, Ungarn</td>
+    <td>Cevianerinnen zwischen 18 - 30 Jahren</td>
+    <td>An der YWCA Study Session geht es um «Young women advocates for human rights, participation and social justice”. Tausche dich mit anderen Frauen aus europäischen YWCAs zu Themen wie pluralistische Demokratie, das friedliche Zusammenleben, Menschenrechte, politische Teilhabe, etc. aus.<br /><a href="https://www.cevi.ch/blog-details/ymcastudysession2022/">Mehr Informationen</a></td>
+  </tr>
+</table>
