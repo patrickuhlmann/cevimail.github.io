@@ -142,18 +142,39 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
     <th>Beschreibung</th>
   </tr>
   <tr>
-    <td>8. - 12. Juni 2022</td>
-    <td>International Youth Summit</td>
-    <td>Davos, Schweiz</td>
-    <td>16 - 30 Jahre</td>
-    <td>Die Welt zu Gast in Davos: Lerne junge Erwachsene aus Afrika, Asien, Lateinamerika und Europa kennen und tausch dich mit ihnen über die brennenden Themen unserer Zeit aus. Welche Herausforderungen beschäftigen dich? Und welche Themen müssen wir endlich gemeinsam angehen?<br><a href="https://www.mission-21.org/was-wir-tun/veranstaltungen/detail/international-youth-summit-the-future-is-now">Mehr Informationen</a></td>
+    <td>02 - 09. Juli 2022</td>
+    <td>Gnist 2022</td>
+    <td>Norwegen</td>
+    <td></td>
+    <td><a href="https://gnist2022.kmspeider.no/english">Mehr Informationen</a></td>
+  </tr>
+  <tr>
+    <td>15. - 23. Juli 2022</td>
+    <td>Kajo 2022</td>
+    <td>Evo, Finnland</td>
+    <td></td>
+    <td><a href="https://kajo2022.ch/de">Mehr Informationen</a></td>
+  </tr>
+  <tr>
+    <td>01. - 03. Juli 2022</td>
+    <td>YMCA Europe General Assembly 2022</td>
+    <td>Aarhaus, Dänemark</td>
+    <td></td>
+    <td><a href="https://db.cevi.ch/groups/1819/events/2961">Mehr Informationen</a></td>
+  </tr>
+  <tr>
+    <td>03. - 09. Juli 2022</td>
+    <td>YMCA World Council 2022</td>
+    <td>Aarhaus, Dänemark</td>
+    <td></td>
+    <td><a href="https://db.cevi.ch/groups/1819/events/2856">Mehr Informationen</a></td>
   </tr>
   <tr>
     <td>17. - 21. August 2022</td>
     <td>ESG LTS 2022</td>
     <td>Köln, Deutschland</td>
     <td>ab 16 Jahren</td>
-    <td>Das ESG Leadership Training und Seminar bietet die Möglichkeit sich mit anderen Scouts des YMCA Europa auszutauschen. In den vier Tagen Seminar und Training werden viele spannende Diskussionen geführt und es gibt coole Aktivitäten. <br><a href="https://db.cevi.ch/groups/1819/public_events/2970">Mehr Informationen</a></td>
+    <td>Das ESG Leadership Training und Seminar bietet die Möglichkeit sich mit anderen Scouts des YMCA Europa auszutauschen. In den vier Tagen Seminar und Training werden viele spannende Diskussionen geführt und es gibt coole Aktivitäten. <br><a href="https://db.cevi.ch/groups/1819/public_events/2970">Anmeldung</a>, <a href="https://www.ymcaeurope.com/esg-leadership-training-and-seminar-2022">Informationen YMCA Europe</a></td>
   </tr>
   <tr>
     <td>04. - 09. September 2022</td>
@@ -163,3 +184,9 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
     <td>An der YWCA Study Session geht es um «Young women advocates for human rights, participation and social justice”. Tausche dich mit anderen Frauen aus europäischen YWCAs zu Themen wie pluralistische Demokratie, das friedliche Zusammenleben, Menschenrechte, politische Teilhabe, etc. aus.<br><a href="https://www.cevi.ch/blog-details/ymcastudysession2022/">Mehr Informationen</a></td>
   </tr>
 </table>
+
+<h2>Volonatriate</h2>
+
+<p><strong>Horyzon</strong> bietet 3-6 monatige Einsätze. Teilweise sind auch Kurzeinsätze von 2 Wochen möglich. Aktuell sind Einsätze beim YMCA Kolumbien und YMCA/YWCA Palästina möglich. <a href="https://horyzon.ch/de/spenden-und-unterstuetzen/einsaetze-weltweit/volontariat/">Weitere Informationen</a></p>
+
+<p><strong>Volunteers for Europe</strong> ist ein Austauschprogramm von YMCA Europa. Es richtet sich an 18 - 25 jährige und es werden 6-12 monatige Einsätze vermittelt. <a href="https://www.ymcaeurope.com/about-volunteers-for-europe-vfe">Mehr Informationen YMCA Europe</a>, <a href="http://vfe.cvjm.de/">Webseite des Austauschprogramms</a></p>
