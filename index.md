@@ -183,6 +183,13 @@ Möchtest du gerne immer auf dem Laufenden betreffend internationalen Events ble
     <td>Cevianerinnen zwischen 18 - 30 Jahren</td>
     <td>An der YWCA Study Session geht es um «Young women advocates for human rights, participation and social justice”. Tausche dich mit anderen Frauen aus europäischen YWCAs zu Themen wie pluralistische Demokratie, das friedliche Zusammenleben, Menschenrechte, politische Teilhabe, etc. aus.<br><a href="https://www.cevi.ch/blog-details/ymcastudysession2022/">Mehr Informationen</a></td>
   </tr>
+  <tr>
+    <td>Mai 2023</td>
+    <td>YWCA General Assembly</td>
+    <td>Antwerp, Belgien</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <h2>Volonatriate</h2>
